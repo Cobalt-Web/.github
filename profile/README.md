@@ -1,7 +1,5 @@
 <p align="center">
-<kbd>
 <img width="150px" src="https://avatars.githubusercontent.com/u/136935918">
-</kbd>
 </p>
 
 <h1 align="center">Cobalt</h1>
