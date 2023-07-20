@@ -9,8 +9,6 @@ A new minimal yet powerful proxy site, built for both users and developers.
 
 Entry for the 2023 TN Proxathon.
 
-More about the features and what makes it special soon.
-
 ### Source Code
 [Cobalt](https://github.com/Cobalt-Web/Cobalt) - View the source code of Cobalt
 
