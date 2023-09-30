@@ -10,7 +10,8 @@ A new minimal yet powerful proxy site, built for both users and developers.
 Entry for the 2023 TN Proxathon.
 
 ### Source Code
-[Cobalt](https://github.com/Cobalt-Web/Cobalt) - View the source code of Cobalt
+[Cobalt](https://github.com/cognetwork-dev/Cobalt) - View the source code of Cobalt
+[Cobalt Ratings](https://github.com/cognetwork-dev/Cobalt-Ratings) - View the Proxathon ratings.
 
 ### Developer
 [Nebelung](https://github.com/Nebelung-Dev) - Owner and only developer
