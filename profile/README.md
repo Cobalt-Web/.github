@@ -11,6 +11,7 @@ Entry for the 2023 TN Proxathon.
 
 ### Source Code
 [Cobalt](https://github.com/cognetwork-dev/Cobalt) - View the source code of Cobalt
+
 [Cobalt Ratings](https://github.com/cognetwork-dev/Cobalt-Ratings) - View the Proxathon ratings.
 
 ### Developer
